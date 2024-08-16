@@ -10,3 +10,4 @@ The network used in this project is ImageNet(resnet-18). How this network works 
 2. Make sure to include any required libraries that need to be installed for your project to run.
 
 [View a video explanation here](video link)
+[2024-08-16 00-14-44.mp4.zip](https://github.com/user-attachments/files/16632855/2024-08-16.00-14-44.mp4.zip)
