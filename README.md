@@ -6,7 +6,7 @@ The network used in this project is ImageNet(resnet-18). How this network works 
 
 ## Running this project
 1. Log in to VS Code via SSH on your nano.
-2. Download the 5 folders of images and the python file, imagenet.py
+2. Download the 5 folders of images and the python file, imagenet.py   (Check the master branch for these)
 3. Open up a new terminal.
 4. Change directories to where you have all the downloaded images and the python code. (ex) if you have it under a folder called writing_utensil_teacher_AI, run the command 'cd writing_utensil_teacher_AI')
 5. Run the command 'python3 imagenet.py folder of image/image' (ex) if you want to check pen_1.jpg which is located inside the pen folder, run the command 'python3 imagenet.py pen/pen_1.jpg')
