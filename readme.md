@@ -11,3 +11,4 @@ The network used in this project is ImageNet(resnet-18). How this network works 
 
 [View a video explanation here]
 [2024-08-16 00-14-44.mp4.zip](https://github.com/user-attachments/files/16632855/2024-08-16.00-14-44.mp4.zip)
+or https://youtu.be/sgfsy3417ww
